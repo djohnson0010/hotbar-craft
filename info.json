@@ -1,0 +1,9 @@
+{
+  "name": "hotbar-craft",
+  "version": "0.2.1",
+  "title": "Hotbar Craft",
+  "author": "Daniel",
+  "factorio_version": "2.1",
+  "dependencies": ["base >= 2.1"],
+  "description": "Press Alt+Q over a hotbar slot, entity, or recipe (or with a ghost in hand) to handcraft it. Shows the missing ingredients when you can't."
+}
