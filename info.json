@@ -5,5 +5,5 @@
   "author": "Daniel",
   "factorio_version": "2.1",
   "dependencies": ["base >= 2.1"],
-  "description": "Press Alt+Q over a hotbar slot, entity, or recipe (or with a ghost in hand) to handcraft it. Shows the missing ingredients when you can't."
+  "description": "Press Alt+Q (Option+Q on Mac) over a hotbar slot, entity, or recipe (or with a ghost in hand) to handcraft it. Shows the missing ingredients when you can't."
 }
